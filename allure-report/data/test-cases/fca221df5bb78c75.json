@@ -1,12 +1,12 @@
 {
-  "uid" : "727adf8ab146d34a",
+  "uid" : "fca221df5bb78c75",
   "name" : "Hello again",
   "fullName" : "Hello again",
   "historyId" : "52e661c0612ca10657c2f1105a9a3be4",
   "time" : {
-    "start" : 1613993605261,
-    "stop" : 1613993605288,
-    "duration" : 27
+    "start" : 1613993776250,
+    "stop" : 1613993776272,
+    "duration" : 22
   },
   "status" : "passed",
   "flaky" : false,
@@ -27,9 +27,9 @@
     "steps" : [ {
       "name" : "\"before each\" hook",
       "time" : {
-        "start" : 1613993605267,
-        "stop" : 1613993605268,
-        "duration" : 1
+        "start" : 1613993776254,
+        "stop" : 1613993776254,
+        "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
@@ -42,9 +42,9 @@
     }, {
       "name" : "Given I pass",
       "time" : {
-        "start" : 1613993605285,
-        "stop" : 1613993605288,
-        "duration" : 3
+        "start" : 1613993776269,
+        "stop" : 1613993776271,
+        "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
@@ -91,8 +91,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "727adf8ab146d34a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613993605261,
+          "stop" : 1613993605288,
+          "duration" : 27
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "727adf8ab146d34a.json",
+  "source" : "fca221df5bb78c75.json",
   "parameterValues" : [ ]
 }

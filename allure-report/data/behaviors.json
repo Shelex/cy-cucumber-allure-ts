@@ -1,22 +1,22 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "name" : "behaviors",
   "children" : [ {
     "name" : "Passing with TypeScript",
     "children" : [ {
       "name" : "Hello again",
-      "uid" : "727adf8ab146d34a",
+      "uid" : "fca221df5bb78c75",
       "parentUid" : "4f9739848bca2586664287d7c8a45a23",
       "status" : "passed",
       "time" : {
-        "start" : 1613993605261,
-        "stop" : 1613993605288,
-        "duration" : 27
+        "start" : 1613993776250,
+        "stop" : 1613993776272,
+        "duration" : 22
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
     "uid" : "4f9739848bca2586664287d7c8a45a23"
-  } ]
+  } ],
+  "name" : "behaviors"
 }
