@@ -1,0 +1,6 @@
+{
+  "ignoreTestFiles": "*.ts",
+  "env": {
+    "allure": true
+  }
+}

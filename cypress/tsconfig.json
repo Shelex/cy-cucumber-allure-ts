@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es2015",      
+      "module": "commonjs",                
+      "lib": ["es2017", "dom"],
+      "strict": true,          
+      "noImplicitAny": true,   
+      "types": ["cypress","node"],
+      "esModuleInterop": true,    
+      "skipLibCheck": true,       
+      "forceConsistentCasingInFileNames": true 
+    },
+    "include": ["**/*.ts",
+      "**/*.js", 
+      "../node_modules/@shelex/cypress-allure-plugin/reporter",
+      "../node_modules/cypress"]
+  }
