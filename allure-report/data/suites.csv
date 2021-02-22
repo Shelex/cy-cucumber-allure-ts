@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 22 13:33:25 EET 2021","Mon Feb 22 13:33:25 EET 2021","27","","Passing with TypeScript","","","","Hello again",""

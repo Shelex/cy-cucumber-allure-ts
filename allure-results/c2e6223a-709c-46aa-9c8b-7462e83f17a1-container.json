@@ -1,0 +1,1 @@
+{"uuid":"c2e6223a-709c-46aa-9c8b-7462e83f17a1","children":["4746ce9e-0872-43c2-b227-f18521ea5f4a"],"befores":[{"status":"passed","statusDetails":{},"stage":"finished","steps":[],"attachments":[],"parameters":[]}],"afters":[{"status":"passed","statusDetails":{},"stage":"finished","steps":[],"attachments":[],"parameters":[]}],"name":"Passing with TypeScript"}

@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Passing with TypeScript",
+    "children" : [ {
+      "name" : "Hello again",
+      "uid" : "727adf8ab146d34a",
+      "parentUid" : "546f70928cb37aa33f3fc759cdbaae15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613993605261,
+        "stop" : 1613993605288,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "546f70928cb37aa33f3fc759cdbaae15"
+  } ]
+}
